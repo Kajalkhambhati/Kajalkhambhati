@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kajalkhambhati
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+.
 
 <!---
 Kajalkhambhati/Kajalkhambhati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
